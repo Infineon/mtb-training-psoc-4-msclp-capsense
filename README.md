@@ -5,6 +5,12 @@ This training introduces the 5th generation Multi-Sense Converter with Low-Power
 ## Device family
 - [PSOC™ 4](https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/psoc-4-mcu)
 
+## How to use this training?
+1. Download the training [content](#content).
+2. Watch the video or review the presentation at your own pace.
+3. Follow the step-by-step instructions in the training manual during the hands-on sections.
+4. Use the provided source files if needed to verify the solution. 
+
 ## Training level
 - E2: Intermediate
 
@@ -42,12 +48,6 @@ This training introduces the 5th generation Multi-Sense Converter with Low-Power
 - [Presentation](./Presentation/PSOC(TM)%204%20CAPSENSE(TM)%20using%20PSOC(TM)%204000T%20and%20PSOC(TM)%204100T%20Plus%20CTW.pdf)
 - [Training manual](./Manual/PSOC(TM)%204%20CAPSENSE(TM)%20using%20PSOC(TM)%204000T%20and%20PSOC(TM)%204100T%20Plus%20training%20manual.pdf)
 - [Solution to labs](./Lab_Solutions/)
-
-## How to use this training?
-1. Download the training [content](#content).
-2. Watch the video or review the presentation at your own pace.
-3. Follow the step-by-step instructions in the training manual during the hands-on sections.
-4. Use the provided source files if needed to verify the solution. 
 
 ## References and resources
 - [ModusToolbox™](https://www.cypress.com/products/modustoolbox)
