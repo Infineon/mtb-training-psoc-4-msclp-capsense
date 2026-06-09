@@ -61,3 +61,4 @@ This training introduces the 5th generation Multi-Sense Converter with Low-Power
 | Date | Version | Description |
 | ---- | ---------   |-------------|
 | 12/12/2025 | **  | First public release |  
+| 05/19/2026 | *A  | Updates to formatting |
